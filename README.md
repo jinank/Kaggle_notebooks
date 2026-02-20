@@ -1,4 +1,4 @@
-📑 Kaggle Notebooks Portfolio – Jinank Thakker
+📑 Kaggle Notebooks
 
 Welcome to my Kaggle Notebooks Repository!
 This repository showcases my work in Machine Learning, Data Science, and Exploratory Data Analysis (EDA) through Kaggle competitions and real-world datasets.
